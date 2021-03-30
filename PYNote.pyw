@@ -15,9 +15,9 @@ Normally, saving and writing operations work perfectly, but it needs in some cas
 This application was created with the goal to create Lite and Nice Python apps, and of course for improving my programming skills.
 You can check my github to get source code.
 Else, if you're a genius or one hacker, just use Notepad ;)
-Check paul-thorel.github.io for full documentation and my other projects!
+Check CapLouis.github.io for full documentation and my other projects!
 
-All rights Reserved Paul Thorel© Alias CaptainLuigi 2020 """
+All rights CaptainLuigi 2020 """
 
 class main(tk.Tk):
 
